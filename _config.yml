@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://pasonian.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://pasonian.github.io
+title: Pasonian's blog
+subtitle: 技術の備忘録
+author: Pasonian
 simple_search: http://google.com/search
 description:
 
