@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://pasonian.com/sitemap.xml 
+Sitemap: http://pasonian.github.io/sitemap.xml 

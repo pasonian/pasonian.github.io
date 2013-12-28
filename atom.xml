@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://pasonian.com/atom.xml" rel="self"/>
-  <link href="http://pasonian.com/"/>
-  <updated>2013-12-28T11:32:28+09:00</updated>
-  <id>http://pasonian.com/</id>
+  <title><![CDATA[Pasonian's blog]]></title>
+  <link href="http://pasonian.github.io/atom.xml" rel="self"/>
+  <link href="http://pasonian.github.io/"/>
+  <updated>2013-12-28T11:46:37+09:00</updated>
+  <id>http://pasonian.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Pasonian]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
-    <link href="http://pasonian.com/blog/2013/12/28/test/"/>
+    <link href="http://pasonian.github.io/blog/2013/12/28/test/"/>
     <updated>2013-12-28T09:36:00+09:00</updated>
-    <id>http://pasonian.com/blog/2013/12/28/test</id>
+    <id>http://pasonian.github.io/blog/2013/12/28/test</id>
     <content type="html"><![CDATA[<p>test</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Tywin Lannister Quote]]></title>
-    <link href="http://pasonian.com/blog/2013/06/15/tywin-lannister-quote/"/>
+    <link href="http://pasonian.github.io/blog/2013/06/15/tywin-lannister-quote/"/>
     <updated>2013-06-15T09:28:00+09:00</updated>
-    <id>http://pasonian.com/blog/2013/06/15/tywin-lannister-quote</id>
+    <id>http://pasonian.github.io/blog/2013/06/15/tywin-lannister-quote</id>
     <content type="html"><![CDATA[<p>A nice quote by Tywin Lannister taken from <em>A Storm of Sword</em> book.</p>
 
 <blockquote><p>The greatest fools are ofttimes more clever then the men who laugh at them.</p><footer><strong>Tywin Lannister</strong> <cite>A Storm of Swords</cite></footer></blockquote>
