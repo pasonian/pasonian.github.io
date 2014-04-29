@@ -4,7 +4,7 @@
   <title><![CDATA[Pasonian's blog]]></title>
   <link href="http://pasonian.github.io/atom.xml" rel="self"/>
   <link href="http://pasonian.github.io/"/>
-  <updated>2013-12-28T11:59:52+09:00</updated>
+  <updated>2014-04-29T23:16:40+09:00</updated>
   <id>http://pasonian.github.io/</id>
   <author>
     <name><![CDATA[Pasonian]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blog_start]]></title>
+    <link href="http://pasonian.github.io/blog/2014/04/29/blog_start/"/>
+    <updated>2014-04-29T00:00:00+09:00</updated>
+    <id>http://pasonian.github.io/blog/2014/04/29/blog_start</id>
+    <content type="html"><![CDATA[<p>初めまして、pasonianです。</p>
+
+<p>IT技術者としてまだ経験が浅いですが、私が持っている<br/>
+知識・経験を色んな方に役に立てれば幸いです。</p>
+
+<p>主にSharePointやC#などMicrosoft製品を記事として取扱います。<br/>
+データベース製品ではOracle 12cがリリースされたばかりなので<br/>
+記事として扱えたら良いと考えています。</p>
+
+<p>間違えた知識等があれば、ご指摘下さい。
+宜しくお願い致します。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
