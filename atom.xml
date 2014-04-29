@@ -4,7 +4,7 @@
   <title><![CDATA[Pasonian's blog]]></title>
   <link href="http://pasonian.github.io/atom.xml" rel="self"/>
   <link href="http://pasonian.github.io/"/>
-  <updated>2014-04-30T01:01:39+09:00</updated>
+  <updated>2014-04-30T01:03:08+09:00</updated>
   <id>http://pasonian.github.io/</id>
   <author>
     <name><![CDATA[Pasonian]]></name>
@@ -29,15 +29,6 @@
 
 <p>間違えた知識等があれば、ご指摘下さい。<br/>
 宜しくお願い致します。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://pasonian.github.io/blog/2013/12/28/test/"/>
-    <updated>2013-12-28T09:36:00+09:00</updated>
-    <id>http://pasonian.github.io/blog/2013/12/28/test</id>
-    <content type="html"><![CDATA[<p>test</p>
 ]]></content>
   </entry>
   
