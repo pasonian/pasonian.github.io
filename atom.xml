@@ -4,7 +4,7 @@
   <title><![CDATA[Pasonian's blog]]></title>
   <link href="http://pasonian.github.io/atom.xml" rel="self"/>
   <link href="http://pasonian.github.io/"/>
-  <updated>2014-04-30T00:29:57+09:00</updated>
+  <updated>2014-04-30T00:40:39+09:00</updated>
   <id>http://pasonian.github.io/</id>
   <author>
     <name><![CDATA[Pasonian]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Blog_start]]></title>
-    <link href="http://pasonian.github.io/blog/2014/04/29/blog_start/"/>
+    <title type="html"><![CDATA[ブログ始めました]]></title>
+    <link href="http://pasonian.github.io/blog/2014/04/29/%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/"/>
     <updated>2014-04-29T00:00:00+09:00</updated>
-    <id>http://pasonian.github.io/blog/2014/04/29/blog_start</id>
+    <id>http://pasonian.github.io/blog/2014/04/29/ブログ始めました</id>
     <content type="html"><![CDATA[<p>初めまして、pasonianです。</p>
 
 <p>IT技術者としてまだ経験が浅いですが、私が持っている<br/>
